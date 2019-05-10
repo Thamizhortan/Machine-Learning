@@ -13,6 +13,7 @@ DATA USED FOR THE PROJECT
 For the project, I used a breast cancer dataset from Wisconsin University. The dataset contains 569 samples and 30 features computed from digital images. Each sample identifies parameters of each patient.
 
 PYTHON PACKAGES
+
 I work daily with Python 3.6+ using a few packages to simplify everyday tasks in data science.
 
 Below are the most important ones.
